@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Native Mobile App</string>
+    <string name="plumber">Plumber</string>
+    <string name="salon">Salon</string>
+    <string name="electrician">Electrician</string>
+    <string name="others">Others</string>
+    <string name="pyb">Post Your Business</string>
+</resources>
